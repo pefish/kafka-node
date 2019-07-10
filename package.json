@@ -1,5 +1,5 @@
 {
-  "name": "kafka-node",
+  "name": "@pefish/kafka-node",
   "description": "Client for Apache Kafka v0.9.x, v0.10.x and v0.11.x",
   "keywords": [
     "kafka",
@@ -35,9 +35,6 @@
   },
   "engines": {
     "node": ">=8.5.1"
-  },
-  "optionalDependencies": {
-    "snappy": "^6.0.1"
   },
   "devDependencies": {
     "@types/node": "^10.12.27",
